@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "user_create",
+    "description": "Create new user accounts",
+    "category": "Users",
+    "assignedTo": ["Admin"]
+  },
+  {
+    "id": 2,
+    "name": "user_edit",
+    "description": "Edit existing user information",
+    "category": "Users",
+    "assignedTo": ["Admin", "Editor"]
+  },
+  {
+    "id": 3,
+    "name": "user_delete",
+    "description": "Remove user accounts",
+    "category": "Users",
+    "assignedTo": ["Admin"]
+  },
+  {
+    "id": 4,
+    "name": "content_publish",
+    "description": "Publish articles and news on the platform",
+    "category": "Content",
+    "assignedTo": ["Admin", "Editor"]
+  },
+  {
+    "id": 5,
+    "name": "content_edit",
+    "description": "Edit published or draft content",
+    "category": "Content",
+    "assignedTo": ["Admin", "Editor"]
+  },
+  {
+    "id": 6,
+    "name": "content_archive",
+    "description": "Archive old or expired content",
+    "category": "Content",
+    "assignedTo": ["Admin"]
+  },
+  {
+    "id": 7,
+    "name": "event_create",
+    "description": "Schedule new community or cultural events",
+    "category": "Events",
+    "assignedTo": ["Admin", "Editor"]
+  },
+  {
+    "id": 8,
+    "name": "event_manage",
+    "description": "Update, cancel, or manage event details",
+    "category": "Events",
+    "assignedTo": ["Admin", "Editor"]
+  },
+  {
+    "id": 9,
+    "name": "media_upload",
+    "description": "Upload images, videos, or press material",
+    "category": "Media",
+    "assignedTo": ["Admin", "Editor"]
+  },
+  {
+    "id": 10,
+    "name": "media_delete",
+    "description": "Delete media from the system",
+    "category": "Media",
+    "assignedTo": ["Admin"]
+  },
+  {
+    "id": 11,
+    "name": "donation_track",
+    "description": "Track and view donation data",
+    "category": "NGO",
+    "assignedTo": ["Admin", "Editor"]
+  },
+  {
+    "id": 12,
+    "name": "donor_manage",
+    "description": "Manage donor profiles and communications",
+    "category": "NGO",
+    "assignedTo": ["Admin"]
+  },
+  {
+    "id": 13,
+    "name": "education_content_create",
+    "description": "Create and upload learning materials",
+    "category": "Education",
+    "assignedTo": ["Admin", "Editor"]
+  },
+  {
+    "id": 14,
+    "name": "education_content_view",
+    "description": "Access and view educational content",
+    "category": "Education",
+    "assignedTo": ["Admin", "Editor", "Viewer"]
+  },
+  {
+    "id": 15,
+    "name": "report_generate",
+    "description": "Generate reports on system or project activity",
+    "category": "Reports",
+    "assignedTo": ["Admin", "Editor"]
+  },
+  {
+    "id": 16,
+    "name": "report_view",
+    "description": "View available reports",
+    "category": "Reports",
+    "assignedTo": ["Admin", "Editor", "Viewer"]
+  },
+  {
+    "id": 17,
+    "name": "volunteer_approve",
+    "description": "Approve or reject volunteer applications",
+    "category": "HR",
+    "assignedTo": ["Admin", "Editor"]
+  },
+  {
+    "id": 18,
+    "name": "settings_view",
+    "description": "Access general system settings",
+    "category": "System",
+    "assignedTo": ["Admin", "Editor", "Viewer"]
+  },
+  {
+    "id": 19,
+    "name": "settings_edit",
+    "description": "Change system configuration and preferences",
+    "category": "System",
+    "assignedTo": ["Admin"]
+  },
+  {
+    "id": 20,
+    "name": "audit_logs_view",
+    "description": "View activity logs for audit and compliance",
+    "category": "System",
+    "assignedTo": ["Admin"]
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name": "Headquarters",
+    "type": "Organization",
+    "parent": null,
+    "members": 50
+  },
+  {
+    "id": 2,
+    "name": "Marketing",
+    "type": "Department",
+    "parent": "Headquarters",
+    "members": 12
+  },
+  {
+    "id": 3,
+    "name": "Development",
+    "type": "Department",
+    "parent": "Headquarters",
+    "members": 25
+  },
+  {
+    "id": 4,
+    "name": "Sales",
+    "type": "Department",
+    "parent": "Headquarters",
+    "members": 13
+  },
+  {
+    "id": 5,
+    "name": "Frontend",
+    "type": "Team",
+    "parent": "Development",
+    "members": 10
+  },
+  {
+    "id": 6,
+    "name": "Backend",
+    "type": "Team",
+    "parent": "Development",
+    "members": 10
+  },
+  {
+    "id": 7,
+    "name": "QA",
+    "type": "Team",
+    "parent": "Development",
+    "members": 5
+  },
+  {
+    "id": 8,
+    "name": "NGO Outreach",
+    "type": "Department",
+    "parent": "Headquarters",
+    "members": 8
+  },
+  {
+    "id": 9,
+    "name": "Humanitarian Aid",
+    "type": "Team",
+    "parent": "NGO Outreach",
+    "members": 4
+  },
+  {
+    "id": 10,
+    "name": "Tourism Partnerships",
+    "type": "Department",
+    "parent": "Headquarters",
+    "members": 7
+  },
+  {
+    "id": 11,
+    "name": "Cedar Promotions",
+    "type": "Team",
+    "parent": "Tourism Partnerships",
+    "members": 3
+  },
+  {
+    "id": 12,
+    "name": "Telecom Operations",
+    "type": "Department",
+    "parent": "Headquarters",
+    "members": 15
+  },
+  {
+    "id": 13,
+    "name": "5G Rollout",
+    "type": "Team",
+    "parent": "Telecom Operations",
+    "members": 6
+  },
+  {
+    "id": 14,
+    "name": "Educational Programs",
+    "type": "Department",
+    "parent": "Headquarters",
+    "members": 10
+  },
+  {
+    "id": 15,
+    "name": "LAU Initiative",
+    "type": "Team",
+    "parent": "Educational Programs",
+    "members": 5
+  },
+  {
+    "id": 16,
+    "name": "Banking Relations",
+    "type": "Department",
+    "parent": "Headquarters",
+    "members": 9
+  },
+  {
+    "id": 17,
+    "name": "Central Bank Coordination",
+    "type": "Team",
+    "parent": "Banking Relations",
+    "members": 4
+  },
+  {
+    "id": 18,
+    "name": "Media & PR",
+    "type": "Department",
+    "parent": "Headquarters",
+    "members": 11
+  },
+  {
+    "id": 19,
+    "name": "Lebanese TV Partnerships",
+    "type": "Team",
+    "parent": "Media & PR",
+    "members": 3
+  },
+  {
+    "id": 20,
+    "name": "Agricultural Innovation",
+    "type": "Department",
+    "parent": "Headquarters",
+    "members": 6
+  },
+  {
+    "id": 21,
+    "name": "Bekaa Valley Projects",
+    "type": "Team",
+    "parent": "Agricultural Innovation",
+    "members": 3
+  },
+  {
+    "id": 22,
+    "name": "Healthcare Initiatives",
+    "type": "Department",
+    "parent": "Headquarters",
+    "members": 10
+  },
+  {
+    "id": 23,
+    "name": "Red Cross Coordination",
+    "type": "Team",
+    "parent": "Healthcare Initiatives",
+    "members": 4
+  },
+  {
+    "id": 24,
+    "name": "Startup Incubator",
+    "type": "Department",
+    "parent": "Headquarters",
+    "members": 7
+  },
+  {
+    "id": 25,
+    "name": "Beirut Tech Hub",
+    "type": "Team",
+    "parent": "Startup Incubator",
+    "members": 4
+  },
+  {
+    "id": 26,
+    "name": "Diaspora Affairs",
+    "type": "Department",
+    "parent": "Headquarters",
+    "members": 5
+  },
+  {
+    "id": 27,
+    "name": "Migrant Engagement Team",
+    "type": "Team",
+    "parent": "Diaspora Affairs",
+    "members": 2
+  }
+]

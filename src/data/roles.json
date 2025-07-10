@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "Admin",
+    "description": "Full access to all platform features and settings",
+    "usersCount": 3,
+    "createdAt": "2023-01-10"
+  },
+  {
+    "id": 2,
+    "name": "Editor",
+    "description": "Can create and manage content, media, and events",
+    "usersCount": 4,
+    "createdAt": "2023-02-15"
+  },
+  {
+    "id": 3,
+    "name": "Viewer",
+    "description": "Can view published content, events, and reports",
+    "usersCount": 3,
+    "createdAt": "2023-03-20"
+  },
+  {
+    "id": 4,
+    "name": "NGO Manager",
+    "description": "Handles donations, volunteers, and reports in NGO projects",
+    "usersCount": 2,
+    "createdAt": "2023-04-05"
+  },
+  {
+    "id": 5,
+    "name": "Media Coordinator",
+    "description": "Uploads, manages, and organizes multimedia content",
+    "usersCount": 1,
+    "createdAt": "2023-05-10"
+  },
+  {
+    "id": 6,
+    "name": "Event Organizer",
+    "description": "Creates and updates cultural or community events",
+    "usersCount": 2,
+    "createdAt": "2023-06-01"
+  },
+  {
+    "id": 7,
+    "name": "Educator",
+    "description": "Publishes educational content and resources",
+    "usersCount": 3,
+    "createdAt": "2023-06-20"
+  },
+  {
+    "id": 8,
+    "name": "Volunteer Coordinator",
+    "description": "Approves and manages volunteer activities",
+    "usersCount": 1,
+    "createdAt": "2023-07-01"
+  },
+  {
+    "id": 9,
+    "name": "Content Reviewer",
+    "description": "Reviews and approves submitted articles or media before publishing",
+    "usersCount": 2,
+    "createdAt": "2023-07-15"
+  },
+  {
+    "id": 10,
+    "name": "Community Manager",
+    "description": "Manages public inquiries, feedback, and online community engagement",
+    "usersCount": 3,
+    "createdAt": "2023-08-01"
+  },
+  {
+    "id": 11,
+    "name": "Student",
+    "description": "Accesses educational content and participates in learning activities",
+    "usersCount": 25,
+    "createdAt": "2023-09-10"
+  },
+  {
+    "id": 12,
+    "name": "Healthcare Coordinator",
+    "description": "Manages health-related programs, awareness campaigns, and partnerships",
+    "usersCount": 1,
+    "createdAt": "2023-09-20"
+  },
+  {
+    "id": 13,
+    "name": "Government Liaison",
+    "description": "Coordinates with ministries, municipalities, and regulatory bodies",
+    "usersCount": 1,
+    "createdAt": "2023-10-05"
+  },
+  {
+    "id": 14,
+    "name": "IT Support",
+    "description": "Provides technical support and system maintenance",
+    "usersCount": 2,
+    "createdAt": "2023-10-15"
+  },
+  {
+    "id": 15,
+    "name": "Project Manager",
+    "description": "Oversees project timelines, deliverables, and reporting",
+    "usersCount": 2,
+    "createdAt": "2023-11-01"
+  },
+  {
+    "id": 16,
+    "name": "Finance Officer",
+    "description": "Handles financial records, donations, and budget reports",
+    "usersCount": 2,
+    "createdAt": "2023-11-12"
+  },
+  {
+    "id": 17,
+    "name": "Municipal Officer",
+    "description": "Oversees local municipality content, announcements, and service updates",
+    "usersCount": 1,
+    "createdAt": "2023-12-01"
+  }
+]

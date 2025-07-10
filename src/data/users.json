@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "role": "Admin",
+    "status": "Active",
+    "lastLogin": "2023-05-15T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "role": "Editor",
+    "status": "Active",
+    "lastLogin": "2023-05-14T15:45:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "email": "bob@example.com",
+    "role": "Viewer",
+    "status": "Inactive",
+    "lastLogin": "2023-05-10T08:15:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Alice Williams",
+    "email": "alice@example.com",
+    "role": "Editor",
+    "status": "Active",
+    "lastLogin": "2023-05-16T09:20:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Charlie Brown",
+    "email": "charlie@example.com",
+    "role": "Viewer",
+    "status": "Active",
+    "lastLogin": "2023-05-13T14:10:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Eva Davis",
+    "email": "eva@example.com",
+    "role": "Admin",
+    "status": "Active",
+    "lastLogin": "2023-05-17T11:25:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Frank Wilson",
+    "email": "frank@example.com",
+    "role": "Editor",
+    "status": "Inactive",
+    "lastLogin": "2023-05-08T16:50:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Grace Taylor",
+    "email": "grace@example.com",
+    "role": "Viewer",
+    "status": "Active",
+    "lastLogin": "2023-05-16T13:35:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Henry Martinez",
+    "email": "henry@example.com",
+    "role": "Admin",
+    "status": "Active",
+    "lastLogin": "2023-05-18T10:15:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Isabel Anderson",
+    "email": "isabel@example.com",
+    "role": "Editor",
+    "status": "Active",
+    "lastLogin": "2023-05-15T09:45:00Z"
+  },
+  {
+    "id": 11,
+    "name": "Rami Khoury",
+    "email": "rami.khoury@municipal.gov.lb",
+    "role": "Municipal Officer",
+    "status": "Active",
+    "lastLogin": "2023-05-19T08:00:00Z"
+  },
+  {
+    "id": 12,
+    "name": "Maya El Hage",
+    "email": "maya.elhage@projecthub.org",
+    "role": "Project Manager",
+    "status": "Active",
+    "lastLogin": "2023-05-18T17:30:00Z"
+  },
+  {
+    "id": 13,
+    "name": "Samer Farah",
+    "email": "samer.farah@ngohealth.lb",
+    "role": "Healthcare Coordinator",
+    "status": "Inactive",
+    "lastLogin": "2023-05-12T10:40:00Z"
+  },
+  {
+    "id": 14,
+    "name": "Layla Abi Saab",
+    "email": "layla.abi@edulebanon.edu",
+    "role": "Educator",
+    "status": "Active",
+    "lastLogin": "2023-05-17T07:50:00Z"
+  },
+  {
+    "id": 15,
+    "name": "Tarek Nassar",
+    "email": "tarek.nassar@beirutconnect.org",
+    "role": "Community Manager",
+    "status": "Active",
+    "lastLogin": "2023-05-18T15:15:00Z"
+  },
+  {
+    "id": 16,
+    "name": "Nadine Moukalled",
+    "email": "nadine.moukalled@culture.gov.lb",
+    "role": "Cultural Affairs Officer",
+    "status": "Active",
+    "lastLogin": "2023-05-19T10:00:00Z"
+  },
+  {
+    "id": 17,
+    "name": "Ziad Rahme",
+    "email": "ziad.rahme@greenlebanon.org",
+    "role": "Environmental Analyst",
+    "status": "Active",
+    "lastLogin": "2023-05-18T14:10:00Z"
+  },
+  {
+    "id": 18,
+    "name": "Racha Nasr",
+    "email": "racha.nasr@cedarsinitiative.org",
+    "role": "Field Coordinator",
+    "status": "Inactive",
+    "lastLogin": "2023-05-10T12:45:00Z"
+  },
+  {
+    "id": 19,
+    "name": "Elie Bou Saab",
+    "email": "elie.bousaab@educonnect.edu.lb",
+    "role": "Academic Supervisor",
+    "status": "Active",
+    "lastLogin": "2023-05-19T11:20:00Z"
+  },
+  {
+    "id": 20,
+    "name": "Dana Haddad",
+    "email": "dana.haddad@lebaneseredcross.org",
+    "role": "Disaster Response Lead",
+    "status": "Active",
+    "lastLogin": "2023-05-18T18:35:00Z"
+  }
+]
