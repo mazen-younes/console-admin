@@ -27,6 +27,6 @@
 
 ```bash
 git clone https://github.com/yourusername/admin-console.git
-cd admin-console
+cd file-name
 npm install
 npm run dev
