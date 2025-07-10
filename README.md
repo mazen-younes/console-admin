@@ -1,3 +1,7 @@
+# Admin Console
+
+Admin Console is a React + Vite web application designed for managing **Users**, **Permissions**, **Roles**, and **Hierarchy**. It features a left sidebar navigation and interactive tables with sorting, filtering, and pagination.
+
 ## Features
 
 - Sidebar navigation to switch between **Users**, **Permissions**, **Roles**, and **Hierarchy** pages.
@@ -26,7 +30,7 @@
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/admin-console.git
+git clone https://github.com/mazen-younes/admin-console.git
 cd file-name
 npm install
 npm run dev
